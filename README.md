@@ -11,7 +11,7 @@ Projeto mobile no gitlab: https://tools.ages.pucrs.br/sow-good
 
 ## Contato
 
-    📫 Como entrar em contato comigo: [https://www.linkedin.com/in/igansi-arthur/]
+📫 Como entrar em contato comigo: [https://www.linkedin.com/in/igansi-arthur/]
 
 Obrigado por visitar o meu perfil! Espero que encontre algo interessante por aqui!⚡
 
