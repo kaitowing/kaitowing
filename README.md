@@ -1,5 +1,5 @@
 ### Bem-vindo ao meu perfil! 👋
-##Sobre mim
+## Sobre mim
 
 Olá! Sou um estudante de Engenharia de Software na PUCRS. Meu foco principal está sendo o desenvolvimento móvel com Flutter. Tenho experiência em linguagens de programação como Java, JavaScript e C/C++, além de conhecimento em bancos de dados como MongoDB e SQL. Atualmente, estou me aprofundando no mundo do desenvolvimento full stack web, explorando diferentes tecnologias para criar aplicações dinâmicas e interativas.
 
