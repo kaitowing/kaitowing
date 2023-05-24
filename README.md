@@ -7,6 +7,8 @@ Olá! Sou um estudante de Engenharia de Software na PUCRS. Meu foco principal es
 
 No meu perfil, você encontrará projetos que demonstram minha paixão pelo desenvolvimento de software. Estou sempre em busca de oportunidades para aprender, colaborar e contribuir para a comunidade de desenvolvedores. Se você está interessado em projetos inovadores, colaboração ou apenas quer trocar conhecimentos, fique à vontade para entrar em contato!
 
+Projeto mobile no gitlab: https://tools.ages.pucrs.br/sow-good
+
 ## Contato
 
     📫 Como entrar em contato comigo: [https://www.linkedin.com/in/igansi-arthur/]
