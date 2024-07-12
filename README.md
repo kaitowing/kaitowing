@@ -19,6 +19,8 @@ Hi, I'm Arthur Igansi, a 6th-semester Software Engineering student with a passio
   - Proficient in using Spring Boot for creating robust and scalable applications.
   - Implemented various microservices architectures using Spring Cloud.
   - Experience with Spring Data JPA for database interactions and JWT for authentication and authorization.
+- **Microservices:**
+  - Good knowledge of microservices architecture and its implementation.
 - **Delphi:**
   - Utilized during my tenure at Nelogica for developing financial software solutions.
 - **C, Go:**
